@@ -1,33 +1,38 @@
 # Projeto de Teste de Estágio - Target
 
-Este repositório contém um projeto de teste de estágio realizado para a Target. 
-O projeto foi desenvolvido tanto em TypeScript quanto em Python.
+Este repositório contém um projeto de teste de estágio realizado para a Target. O projeto foi desenvolvido tanto em TypeScript quanto em Python.
 
+## Estrutura do Projeto
 
-Estrutura do Projeto
 O repositório está estruturado da seguinte maneira:
 
-/teste-target
-  ├── /Typescript
-  │   ├── /Questao1.ts
-  │   ├── /Questao2.ts
-  │   ├── /Questao3.ts
-  │   ├── /Questao4.ts
-  │   ├── /Questao5.ts
-  │   ├── /dados.json
-  │   ├── package.json
-  │   └── tsconfig.json
-  └── /python
-  │   ├── /Questao1.yp
-  │   ├── /Questao2.py
-  │   ├── /Questao3.py
-  │   ├── /Questao4.py
-  │   ├── /Questao5.py
-  │   └── dados.json
+# Diretório `/Typescript`
 
+- **/Questao1.ts** Arquivo TypeScript contendo solução para as questão proposta.
+- **/Questao2.ts** Arquivo TypeScript contendo solução para as questão proposta.
+- **/Questao3.ts** Arquivo TypeScript contendo solução para as questão proposta.
+- **/Questao4.ts** Arquivo TypeScript contendo solução para as questão proposta.
+- **/Questao5.ts** Arquivo TypeScript contendo solução para as questão proposta.
+- **dados.json**: Arquivo JSON com dados necessários para os scripts TypeScript.
+- **package.json**: Arquivo de configuração do npm que lista as dependências e scripts do projeto TypeScript.
+- **tsconfig.json**: Arquivo de configuração do TypeScript, especificando as opções de compilação.
 
-Tecnologias Utilizadas
-TypeScript: 5.5.4
-Python: 3.12.2
+# Diretório `/Python`
 
-By João Alves
+- **/Questao1.py** Arquivo Python contendo soluções para as questão proposta.
+- **/Questao2.py** Arquivo Python contendo soluções para as questão proposta.
+- **/Questao3.py** Arquivo Python contendo soluções para as questão proposta.
+- **/Questao4.py** Arquivo Python contendo soluções para as questão proposta.
+- **/Questao5.py** Arquivo Python contendo soluções para as questão proposta.
+- **dados.json**: Arquivo JSON com dados necessários para os scripts Python.
+
+---
+
+# Tecnologias Utilizadas
+
+- **TypeScript**: 5.5.4
+- **Python**: 3.12.2
+
+---
+
+# By João Alves
