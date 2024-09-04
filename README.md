@@ -8,23 +8,11 @@ O repositório está estruturado da seguinte maneira:
 
 # Diretório `/Typescript`
 
-- **/Questao1.ts** Arquivo TypeScript contendo solução para as questão proposta.
-- **/Questao2.ts** Arquivo TypeScript contendo solução para as questão proposta.
-- **/Questao3.ts** Arquivo TypeScript contendo solução para as questão proposta.
-- **/Questao4.ts** Arquivo TypeScript contendo solução para as questão proposta.
-- **/Questao5.ts** Arquivo TypeScript contendo solução para as questão proposta.
-- **dados.json**: Arquivo JSON com dados necessários para os scripts TypeScript.
-- **package.json**: Arquivo de configuração do npm que lista as dependências e scripts do projeto TypeScript.
-- **tsconfig.json**: Arquivo de configuração do TypeScript, especificando as opções de compilação.
+- Contem as respostas das questões em typescript e os arquivos necessários
 
 # Diretório `/Python`
 
-- **/Questao1.py** Arquivo Python contendo soluções para as questão proposta.
-- **/Questao2.py** Arquivo Python contendo soluções para as questão proposta.
-- **/Questao3.py** Arquivo Python contendo soluções para as questão proposta.
-- **/Questao4.py** Arquivo Python contendo soluções para as questão proposta.
-- **/Questao5.py** Arquivo Python contendo soluções para as questão proposta.
-- **dados.json**: Arquivo JSON com dados necessários para os scripts Python.
+- Contem as respostas das questões em python e os arquivos necessários 
 
 ---
 
